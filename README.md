@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Pratik Chaudhari
 
-<!--
-**pratikc363/pratikc363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Engineering Graduate
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- Java
+- Spring Framework
+- Hibernate
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- Timetable Generator using Genetic Algorithm
+- Student Management System
+
+📚 Currently at CDAC Noida
+
+## Skills
+Java | MySQL | JDBC | Servlet | JSP | Hibernate | Spring
